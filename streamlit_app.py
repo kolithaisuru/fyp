@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title('Blast Freezer Predictive Maintenanace System')
 
 st.write('Hello world!')
