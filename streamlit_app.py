@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('Blast Freezer Predictive Maintenanace System')
+st.title('Blast Freezer Interface')
 
 st.write('Hello world!')
